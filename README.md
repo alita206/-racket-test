@@ -13,7 +13,7 @@
 <ol>Simple and intuitive controls</ol>
 <ol>Increasing difficulty as the game progresses</ol>
 <ol>Engaging gameplay to test your reflexes and precision</ol>
-<ol>Score tracking to compete for the highest score</ol>
+
 
 <h2>Technologies Used</h2>
 
