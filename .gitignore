@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+<<<<<<< HEAD
+# Seu conteúdo local
+=======
+# Conteúdo do repositório remoto
+>>>>>>> origin/main
+
+
 # User-specific files
 Library/
 *.rsuser
