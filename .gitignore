@@ -3,11 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-<<<<<<< HEAD
+ HEAD
 # Seu conteúdo local
-=======
+
 # Conteúdo do repositório remoto
->>>>>>> origin/main
+ origin/main
 
 
 # User-specific files
